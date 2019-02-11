@@ -2,7 +2,7 @@ import os
 import pygame
 import math
 
-FPS = 100000
+FPS = 100000;
 pygame.init()
 size = width, height = 1366, 768
 screen = pygame.display.set_mode(size)
